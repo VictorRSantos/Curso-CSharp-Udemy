@@ -17,10 +17,7 @@ namespace Aula_91_TimeSpan
             Console.WriteLine(t1);
             Console.WriteLine(t1.Ticks);
 
-           for (int i = 0; i < length; i++)
-			{
-
-			}
+          
 
         }
     }
